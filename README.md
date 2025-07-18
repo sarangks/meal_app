@@ -37,3 +37,6 @@ A full-stack web application built during the **KeyValue Hackathon** to moderniz
    ```bash
    git clone https://github.com/sarangks/meal_app.git
    cd meal_app
+
+you can view this project at: 
+https://687a3cf76112c1113cf61fdc--graceful-medovik-195ec5.netlify.app/
